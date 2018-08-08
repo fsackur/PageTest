@@ -2,6 +2,12 @@
 
 some text here
 
-{% include_relative README.md %}
+>``` Powershell
+>-Path <String>
+>```
+>
+>Mandatory : true
+>A path to a thing.
+>
 
 some more text here
